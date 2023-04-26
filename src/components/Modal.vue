@@ -46,7 +46,7 @@ export default {
   margin: 15% auto;
   padding: 10px;
   border: 1px solid #888;
-  width: 30%;
+  width: 40%;
   cursor: pointer;
 }
 

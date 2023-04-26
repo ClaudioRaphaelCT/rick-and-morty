@@ -1,7 +1,7 @@
 <template>
   <v-container grid-list-xs>
     <v-row>
-      <v-col cols="2" v-for="(char, indice) in characters" :key="indice">
+      <v-col cols="3" v-for="(char, indice) in characters" :key="indice">
         <v-card
           color="grey"
           id="cards"
